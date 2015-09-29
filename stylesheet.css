@@ -1,0 +1,36 @@
+/*Css for ID page.html*/
+p {
+    
+}
+h1{
+    font-style:italic;
+    font-family:times;
+    
+}
+span{
+    font-style:italic;
+}
+body > span {
+    font: bold;
+    
+} 
+h4 {
+    margin: 20px;
+}
+div p {
+    margin: 0  0 0 50px;
+    border-left: 2px solid gray;
+    position: relative;
+}
+li {
+    margin: 0 0 0 20px;
+}
+img {
+    float: right;
+}
+/*ol {
+    border-left: 2px solid gray;
+}
+ul {
+    border-left: 2px solid gray;
+}*/
